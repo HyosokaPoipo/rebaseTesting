@@ -25,3 +25,9 @@ ini commit yang kedua setelah merge....
 
 
 4:47...................GH....
+
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+nyobain git stash...
+4:58...GH
