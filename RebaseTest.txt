@@ -31,3 +31,6 @@ ini commit yang kedua setelah merge....
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 nyobain git stash...
 4:58...GH
+
+
+4:59...GH
