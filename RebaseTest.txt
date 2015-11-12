@@ -9,3 +9,7 @@ This is a text from GitHub Repository...
 
 =============================================
 4:32 PM...GH
+
+
+4:33 PM...GH
+ini commit yang kedua setelah merge....
