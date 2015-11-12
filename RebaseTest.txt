@@ -7,6 +7,14 @@ Text from local RebaseTest
 4:24 PM..........GH
 This is a text from GitHub Repository...
 
+=============================================
+4:32 PM...GH
 
+<<<<<<< HEAD
 ############################################ Local
 4:34 PM.......Local
+=======
+
+4:33 PM...GH
+ini commit yang kedua setelah merge....
+>>>>>>> aeba17d66b271b2ffeff0f261d86d9b693aa473f
